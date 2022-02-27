@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a popish vvill made in the xixth. year of King Henry the Eighth, &amp;c. The original whereof, with the probate, may be seen at the sign of the Bull in the Mint, Southwark, in the custody of Mr. Merrial; and published onely to set forth the ignorance of the papists.</title>
+            <author>Cony, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80395</idno>
+            <idno type="STC">Wing C5991A</idno>
+            <idno type="STC">ESTC R20209</idno>
+            <idno type="EEBO-CITATION">99896089</idno>
+            <idno type="PROQUEST">99896089</idno>
+            <idno type="VID">153881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153881)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2386:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a popish vvill made in the xixth. year of King Henry the Eighth, &amp;c. The original whereof, with the probate, may be seen at the sign of the Bull in the Mint, Southwark, in the custody of Mr. Merrial; and published onely to set forth the ignorance of the papists.</title>
+                  <author>Cony, Thomas.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The will of Thomas Cony.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Wills --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153881:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <head>A TRUE COPY OF A <hi>Popiſh VVill</hi> Made in the xixth. Year of King <hi>Henry</hi> the Eighth, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">The Original whereof, with the Probate, may be ſeen at the Sign of the <hi>Bull</hi> in the <hi>Mint, Southwark,</hi> in the Cuſtody of Mr. <hi>Merrial;</hi> and publiſhed onely to ſet forth the Ignorance of the <hi>Papiſts.</hi>
+            </head>
+            <opener>IN the Name of God Amen.</opener>
+            <p>The xxiijth. day of the moneth of <hi>April,</hi> the year of our Lord God <hi>M. CCCCC. xxvij.</hi> And the <hi>xixth.</hi> year of the Reign of King <hi>Herry,</hi> the <hi>viijth.</hi> I <hi>Thomas Cony</hi> Citizein and Fletcher of <hi>Lond.</hi> beying of good and perfyte memory thanked be Almighty God, make, ordeyn, and diſpoſe this my preſent Teſtament and laſt Will in manner and fonrme following, that is, to wite. Firſt, I bequethe and recommend my Soul to Almighty God my Maker and Savyour, and to the glorious and bleſſed Virgyn our Lady Saint <hi>Mary,</hi> and to alle the holy company of Heavyn, and my Bo<g ref="char:EOLhyphen"/>dy to be Buryed within the Chirche of Saint <hi>Benet Graſ-Church</hi> of <hi>London,</hi> where as I am Pariſhioner in or ny the place where as the Body of <hi>Agnes</hi> late my Wif now lieth Buryed. Itm, I bequethe to the High Awter of the ſame Chirche for my Tythes
+<pb n="2" facs="tcp:153881:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 41 -->and Oblations forgotten or negligently withholden in diſcharge<g ref="char:EOLhyphen"/>ing of my Conſcience, <hi>ii s.</hi> Itm, I bequethe to the Fraternitie of our bliſſed Lady in the ſaid Chirche Founded <hi>iii s. iiii d.</hi> Item, I bequethe, to <hi>Margaret</hi> my Daughter to hyr to be delyvered whan ſhe ſhall come to her lawful Age or Marriage <hi>xx l.</hi> Itm, I bequethe to the ſame <hi>Margaret</hi> my ſtonding Cup of Syluer and on' gilt with a Cover and a Gote ſtonding upon the Top thereof. Itm', I bequeathe to Iohane my Daughter, to hyr to be deli<g ref="char:EOLhyphen"/>ver'd whan ſhe ſhall come to her Lawful Age or Marriage <hi>xx l.</hi> And oon' Goblet with a Cover gilt with a Roſe on the Top. And if it fortune, as God defend that any of my ſaid Daughters before ſhe ſhall come to hyr Lawful Age or Marriage happen to dy; than I will that the part of hyr that ſo diſcea<g ref="char:EOLhyphen"/>ſeth remayne to the other of them, than beyng alyve, and ſo of either of them, except <hi>x l.</hi> parcel of the ſaid bequeſte of <hi>x l.</hi> I will that myn' Erecutours underwritten, or the Executours of any of them, provide and ordein an honeſt preeſt of good Name and Fame to ſyng and ſay Maſſe within the ſaid Chirche of Saint <hi>Benet</hi> for my Soul, my Fader and Moder Soules, my Wifs Soules, my Freends Soules, my Children Soules, and alle Chriſten Soules by the ſpace of oon year, <hi>&amp;c.</hi> And than I be<g ref="char:EOLhyphen"/>quethe to the ſame Preeſt for the ſaid oon year, <hi>&amp;c.</hi> the ſaid <hi>x l.</hi> parcel of the ſaid Bequeſts of <hi>x l.</hi> by me to my ſaid <hi>ii.</hi> Daugh<g ref="char:EOLhyphen"/>ters bequeathen. And alſo I will that the ſame Preeſt ſhall be reſident at all Diuine Service to be ſaid and ſongen within the ſaid Chirche duryng the ſaid Yere, <hi>&amp;c.</hi> Except that myn Ex<g ref="char:EOLhyphen"/>ecutors command hym' to go to <hi>Weſtm' Savoy</hi> or <hi>Croſſed Freres</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> where he ſhall ſay Maſs for my Soule, and the Soules afore<g ref="char:EOLhyphen"/>ſaid, as often as myn' Erecutors ſhall appoint hym' thereto, duryng the ſaid Year, <hi>&amp;c.</hi> Alſo I bequethe to <hi>Margaret</hi> my Wif all that myn' Intereſt, Title, Right and Termes of Yeres which I have of, and and in all that my Tenement that I now dwell in, which I hold by a Leas of the graunt of <hi>James Walſingham</hi> and <hi>Edmond</hi> his Son for certeyn termes of Yeres, to have and to hold all the ſaid intereſt and termes of Yeres to the ſaid <hi>Margaret,</hi> to hir Executors and Aſ<g ref="char:EOLhyphen"/>ſignes duryng the Yeres now for to come, of and in the ſame. And furthermore, I will that of the Iſſues and Profits that ſhall Yerely come and growe of and in all my ſaid Tenements that I now dwell in the ſame, <hi>Margaret</hi> my Wif ſhall kepe or cauſe to be kept an Yearly Obite or Anniverſary within the ſaid Chirche of <hi>Saint B<gap reason="illegible" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>,</hi> for my Soule and the Soules aforeſaid, expending every Yere Yerely at the ſaid Obite duryng the ſpace of <hi>vij</hi> Yeres next enſuing my diſceas <hi>xiij s.</hi> and <hi>iv d.</hi> in manner and fourme fol<g ref="char:EOLhyphen"/>lowing, that is to ſay, to <hi>vi.</hi> poor Houſholders of the ſaid Pariſh of <hi>Saint Bennet, vi s.</hi> that is to wite, to every of them <hi>xij d.</hi> ſo that the ſame <hi>vi</hi> Houſholders be at my Dirige and Maſs, requiring them to pray for my Soule and the Soules aforeſaid, <hi>vij s.</hi> and <hi>iiij d.</hi> re<g ref="char:EOLhyphen"/>ſidues of the ſaid Somme of <hi>xiij s. iiij d.</hi> to be ſpent and given a<g ref="char:EOLhyphen"/>mongeſt Preeſts and Clerks of the ſaid Chirche and for Rynging of
+<pb n="3" facs="tcp:153881:2"/>
+               <!-- PDF PAGE 41 -->
+Bells and other Obſequies to ſuche an Obite accuſtomed, and a<g ref="char:EOLhyphen"/>mongeſt the Pariſhioners for Brede, Drink and Cheſe; and whan and eſſoone as the ſaid <hi>vij</hi> Yeres ſhall be complete and full ronne, than I will that every Yere Yerely, duryng and aſlong as any intereſt and termes of Yeres that ſhall be than for to come of and in the ſame Tenement, after that the ſaid <hi>vij</hi> Yeres be full ronne, myn' Obite to be kept within the ſaid Chirche of <hi>Saint Bennet,</hi> for my Soule and the Soules aforeſaid, expending of the ſaid Iſſues and Profits that ſhall Yerely come of and in the ſame Tenements, but oonly <hi>vi s. iiij d.</hi> Itm' I bequethe to <hi>William Cony</hi> my Broder the Rom of the Chamber that he now holdith and occupieth within my ſaid dwel<g ref="char:EOLhyphen"/>lyng-hows, To have and to hold, to hym duryng the Yeres that I have to come of and in my ſaid Tenement, yf he the ſame <hi>William Cony</hi> my Broder, ſo long lyve, without any Rent or other Duete to be paid or yolden for the ſame. Alſo, I will thai myn' Execu<g ref="char:EOLhyphen"/>tours ſhall every Yere Yerely, duryng the Space of Six Yeres next enſuing my diſceas provide and by oon Lode of Coles, ac<g ref="char:EOLhyphen"/>compting <hi>xxiiij</hi> Quarters for the Lode, at the price of <hi>x s.</hi> the Lode, and the ſame Lode Coles ſo bought and provided, I will that the ſame myn' Executours diſtribute and give the ſame to por Houſholders of the ſaid Pariſh of <hi>Saint Bennet,</hi> and to other next adjoyning the ſame Pariſh within the Ward, that is to ſay, to every Houſholder oon quarter, deſiryng them to pray ſpecially for my Soule and the Soules aforeſaid; and I will that the ſame Coles be given at ſuche tyme of the Yere as it ſhall be thought mooſt convenyent for the nede and comfort of the ſaid por Houſholders. Alſo, I will that my Tenement with th'Appurtenances lying in <hi>Ware,</hi> in the <hi>Countie</hi> of <hi>Hertford,</hi> ſhall be immediatly after my Diſceas ſold by myn' Erecutours to the mooſt profite and advantage. And the ſame Tenement ſo ſold, I will that myn' Executours or the Executours of any of them with the Mony comyng of the ſame ſale, ſhall diſpoſe and give the ſame for my Soule and the Soules above-written, in ſynging of Maſs at <hi>Scala coeli Savoy,</hi> or <hi>Croſſed Freres,</hi> Marying of por Maidens, releving of por Priſoners and por Houſholders, amendyng of high, noyous Weyes, and in other good werks of mercy and pity, as the ſame myn Executours or the Ere<g ref="char:EOLhyphen"/>cutours of any of them ſhall think mooſt beſt to the Pleſure of God and helth of my Soule and the Soules aforeſaid. Further<g ref="char:EOLhyphen"/>more, I will that all my Lands and Tenements, Medewes, Le<g ref="char:EOLhyphen"/>ſues and Paſtures, as well Free as Copy, lying and beyng in the Pariſhes of <hi>Charlton</hi> or <hi>Aſhton Combery</hi> and <hi>Hampton</hi> in the Coun<g ref="char:EOLhyphen"/>tie of <hi>Middl.</hi> and elſewhere within the ſame County, Incontinent after my diſceas ſhall wholly remayne to the ſaid <hi>Margaret</hi> and <hi>Johane</hi> my Daughters, and to their Heires and Aſſignes for ever<g ref="char:EOLhyphen"/>more. The reſidue of all my Goods, Catalls and Detts whatſo<g ref="char:EOLhyphen"/>ever they be after my Detts paid and the Coſts of my Burying doon, and this my preſent Teſtament in all things fulfilled wholly, I give and bequethe to the ſaid <hi>Margaret</hi> my Wif, therewith to do,
+<pb n="4" facs="tcp:153881:3"/>
+               <!-- PDF PAGE 42 -->
+ordeyn' and diſpoſe hir free wyll. And of this my preſent Teſta<g ref="char:EOLhyphen"/>ment and laſt Will I make and ordeyn myn' Erecutors, the ſaid <hi>Margaret</hi> my Wif, and <hi>William Cony</hi> my Broder: And I bequethe to the ſame <hi>William</hi> for his labor in the Premiſes, <hi>x l.</hi> and a Gown Yoven the Day and Yere firſt above-written.</p>
+            <p>Theſe Witneſs <hi>Sir Gerry Coldwel,</hi> Curate of the ſaid Chirche, <hi>John Porter, Thomas Egerton, William Temple, John Wilſhire, William Cole, John Ruttur</hi> and other.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
